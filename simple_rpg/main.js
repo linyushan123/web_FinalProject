@@ -17,7 +17,7 @@ $(function(){
     ctx = $("#myCanvas")[0].getContext("2d");
 
     imgMain = new Image();
-    imgMain.src = "simple_rpg/images/spriteSheet.png";
+    imgMain.src = "simple_rpg/images/chin.png";
     currentImgMain = {
         "x":0,
         "y":0

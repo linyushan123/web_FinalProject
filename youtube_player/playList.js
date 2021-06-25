@@ -1,13 +1,15 @@
 //YouTube Video ID
 let playList = [
-    "BDRPxuLLmhs", 
-    "SUKKbr72xGU", 
-    "c6gi6IP6ay4"
+    "36QdUuhc5LU", 
+    "Z6P46XXMLO8", 
+    "L9Jy9g2EcsQ",
+    "8gaByIMSbXQ"
 ];
 
 //播放起訖秒數
 let playTime = [
-    [101,105], 
-    [120,125], 
-    [146,152]
+    [65,70], 
+    [20,25], 
+    [10,15],
+    [485,490]
 ];
